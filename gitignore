@@ -1,0 +1,52 @@
+# ==========================================
+# C++ & Compiled Binaries (Blocks++ Engine)
+# ==========================================
+# Ignore compiled executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# Ignore object files and compiler intermediates
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.idb
+
+# Ignore build directories
+/build/
+/bin/
+/out/
+CMakeCache.txt
+CMakeFiles/
+
+# ==========================================
+# Node.js & JavaScript (Editor & Extensions)
+# ==========================================
+# Ignore local dependencies
+node_modules/
+jspm_packages/
+
+# Ignore log files and lock files if preferred
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ==========================================
+# Environment & IDEs
+# ==========================================
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configurations (VS Code, Visual Studio, CLion)
+.vscode/
+.idea/
+*.suo
+*.user
+*.filters
