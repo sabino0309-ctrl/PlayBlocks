@@ -1,0 +1,13 @@
+Permission is hereby granted, free of charge, to any person obtaining a copy of this block-based software, transpiled source code, visual project files, and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+Clauses & Conditions:
+The Visual & Text Transparency Clause:
+Any redistribution of this Software—whether distributed as visual block projects, raw C++ source code, or compiled native binaries—must preserve the ability for end-users to inspect the underlying code generation. The "Code Shower" or equivalent text-inspection mechanism must remain accessible so users can view how visual logic translates into native code.
+
+Attribution & Origin:
+The original creator, Leovanni, must be prominently credited as the primary architect of the core platform structure in all substantial distributions, documentation, and derivative works.
+
+Extension Compatibility:
+Extensions built using the JSON/JS DSL format for this platform may be distributed under licenses chosen by their respective authors, provided they do not restrict the core execution engine's ability to transpile and compile them into native binaries.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
